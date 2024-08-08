@@ -1,0 +1,34 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iam:ListAttachedRolePolicies",
+                "iam:GetPolicy",
+                "iam:GetPolicyVersion",
+                "iam:GetRole",
+                "iam:GetRolePolicy",
+                "iam:GetRolePolicyVersion",
+                "iam:ListAttachedRolePolicies",
+                "iam:ListRolePolicies",
+                "iam:ListRolePolicyVersions",
+                "iam:ListAttachedRolePolicies",
+                "iam:ListPolicyVersions",
+                "iam:ListAttachedRolePolicies",
+                "iam:ListRolePolicies",
+                "iam:ListRolePolicyVersions",
+                "iam:ListAttachedRolePolicies",
+                "iam:GetPolicy",
+                "iam:ListAttachedRolePolicies",
+                "iam:GetRolePolicy",
+                "iam:GetPolicyVersion",
+                "iam:GetRole",
+                "iam:GetPolicyVersion",
+                "iam:ListPolicyVersions"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
+
